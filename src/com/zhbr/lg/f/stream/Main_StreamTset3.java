@@ -256,7 +256,7 @@ public class Main_StreamTset3 {
 		System.out.println(dss.getAverage());
 		System.out.println(dss.getMax());
 		
-		// 
+		// Æ´½Ó
 		String str = EmployeeList.stream()
 							.map(Employee::getName)
 							.collect(Collectors.joining(",", "===", "==="));
