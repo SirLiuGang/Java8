@@ -1,4 +1,4 @@
-package com.zhbr.lg.d.lambda;
+package com.zhbr.lg.d.interface4;
 
 import java.util.ArrayList;
 import java.util.Arrays;
